@@ -2,11 +2,11 @@
 This page uses the open weather map API to search for a city and display its weather. It uses ES6 JavaScript and fetch API for handling requests.
 
 ## Notable things I did & learned: 
-⋅⋅* Used the Fetch API to make the AJAX request.
-⋅⋅* Evaluated which search method was used.
-⋅⋅* Displayed images and icons based on the weather of that city. 
-⋅⋅* Receiving the data in JSON format, then grabbing the data I needed. 
-⋅⋅* Set the position of the weather card using JavaScript
+..* Used the Fetch API to make the AJAX request.
+..* Evaluated which search method was used.
+..* Displayed images and icons based on the weather of that city. 
+..* Receiving the data in JSON format, then grabbing the data I needed. 
+..* Set the position of the weather card using JavaScript
 
 ## Reflections on the experience
 The tutorial was very well done using modern methods of coding and was very technical. I had to stop numerous times in the video, rewind, and watch certain sections again to understand what was going on. His process made me feel that I too could create a project like this. He console.logged the JSON that was returned. Then he broke down the data we needed from it and how we'd pull it from the JSON data. 
